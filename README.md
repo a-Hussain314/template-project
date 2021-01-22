@@ -1,0 +1,1 @@
+template project with redux, thunk, actions and reducers
